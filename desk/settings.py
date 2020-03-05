@@ -149,6 +149,6 @@ MESSAGE_TAGS = {
 EMAIL_HOST= 'smtp.gmail.com'
 EMAIL_PORT= 587
 EMAIL_HOST_USER='sav1722056@sicsr.ac.in'
-EMAIL_HOST_PASSWORD='mom2june1970'
+EMAIL_HOST_PASSWORD='*hidden field*'
 EMAIL_USE_TLS=True
 
