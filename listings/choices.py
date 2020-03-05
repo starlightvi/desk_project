@@ -1,0 +1,65 @@
+#key value pair in dictionaries 
+desk_choices = {
+  '1':1,
+  '2':2,
+  '3':3,
+  '4':4,
+  '5':5,
+  '6':6,
+  '7':7,
+  '8':8,
+  '9':9,
+  '10':10
+  }
+ 
+price_per_day_choices = {
+  '400':'₹400',
+  '500':'₹500',
+  '600':'₹600',
+  '700':'₹700',
+  '800':'₹800',
+  '900':'₹900',
+  '1000':'₹1000',
+  '1000+':'₹1000+',
+}
+ 
+state_choices = {
+    'AP': 'Andhra Pradesh',
+    'AR': 'Arunachal Pradesh',
+    'AS': 'Assam',
+    'BR': 'Bihar',
+    'CG': 'Chhattisgarh',
+    'GA': 'Goa',
+    'GJ': 'Gujarat',
+    'HR': 'Haryana',
+    'HP': 'Himachal Pradesh',
+    'JK': 'Jammu and Kashmir',
+    'JH': 'Jharkhand',
+    'KA': 'Karnataka',
+    'KL': 'Kerala',
+    'MP': 'Madhya Pradesh',
+    'Maharashtra': 'Maharashtra',
+    'MN': 'Manipur',
+    'ML': 'Meghalaya',
+    'MZ': 'Mizoram',
+    'NL': 'Nagaland',
+    'OR': 'Odisha',
+    'PB': 'Punjab',
+    'RJ': 'Rajasthan',
+    'SK': 'Sikkim',
+    'TN': 'Tamil Nadu',
+    'TG': 'Telangana',
+    'TR': 'Tripura',
+    'UP': 'Uttar Pradesh',
+    'UK': 'Uttarakhand',
+    'WB': 'West Bengal',
+    'AN': 'Andaman and Nicobar Islands',
+    'CH': 'Chandigarh',
+    'DH': 'Dadra and Nagar Haveli',
+    'DL': 'Daman and Diu',
+    'LD': 'Lakshadweep',
+    'NCR': 'National Capital Territory of Delhi',
+    'PY': 'Puducherry',
+
+        
+}

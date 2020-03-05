@@ -1,0 +1,22 @@
+#header {
+    height: 50px;
+   /* background-color: #FFF8ED; */
+   /* color: #304254; */
+    
+
+}
+
+#branding h1{
+    color: #FFF8ED;
+}
+#user-tools {
+    color: #304254;
+
+}
+a:link,
+a:visited {
+    color: #10284e;
+}
+div.breadcrumbs{
+    background:  #304254 ;
+}
