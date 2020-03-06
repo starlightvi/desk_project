@@ -462,7 +462,7 @@ pre {
       max-width: 960px; } }
   @media (min-width: 1200px) {
     .container {
-      max-width: 1140px; } }
+      max-width: 78%; } }
 
 .container-fluid {
   width: 100%;
@@ -764,8 +764,8 @@ pre {
     flex: 0 0 58.33333%;
     max-width: 58.33333%; }
   .col-md-8 {
-    flex: 0 0 66.66667%;
-    max-width: 66.66667%; }
+    flex: 0 0 80%;
+    max-width: 60%; }
   .col-md-9 {
     flex: 0 0 75%;
     max-width: 75%; }
@@ -2777,8 +2777,8 @@ input[type="button"].btn-block {
 
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #fff;
-  background-color: #10284e; }
+  color: black;
+  background-color:  #fff  }
 
 .nav-fill .nav-item {
   flex: 1 1 auto;
