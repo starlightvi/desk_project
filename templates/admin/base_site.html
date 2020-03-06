@@ -1,14 +1,12 @@
-{% extends 'admin/base.html'%}
+
+{% extends 'admin/base.html' %}
 {% load static %}
 
-{% block branding%}
-    <h1 id="head" style="color:#304254" > 
-    <img src="{% static 'logo1.png' %}" alt="DESK" height="50" > 
-      &nbsp DESK Admin
-    </h1> 
-
+{% block branding %}
+  <h1 id="head">
+    <img src="{% static 'img/logo1.png' %}" alt="DESK Admin" height="50" width="80" class="brand_img"> Admin Area
+  </h1>
 {% endblock %}
-
 {% block extrastyle %}
-    <link rel="stylesheet" href="{% static 'css/admin.css' %}">
+  <link rel="stylesheet" href="{% static 'css/admin.css' %}">
 {% endblock %}

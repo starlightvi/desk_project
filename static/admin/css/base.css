@@ -834,7 +834,7 @@ table#change-history tbody th {
     justify-content: space-between;
     align-items: center;
     padding: 10px 40px;
-    background: #417690;
+    background: #10284e;
     color: #ffc;
     overflow: hidden;
 }
@@ -884,6 +884,7 @@ table#change-history tbody th {
     letter-spacing: 0.5px;
     text-transform: uppercase;
     text-align: right;
+    color: white;
 }
 
 #user-tools a {

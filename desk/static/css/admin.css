@@ -1,6 +1,6 @@
 #header {
     height: 50px;
-   /* background-color: #FFF8ED; */
+    background-color: #10284e;
    /* color: #304254; */
     
 
@@ -10,7 +10,7 @@
     color: #FFF8ED;
 }
 #user-tools {
-    color: #304254;
+    color: white;
 
 }
 a:link,
